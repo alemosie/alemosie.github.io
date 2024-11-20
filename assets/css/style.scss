@@ -264,12 +264,86 @@ a.navbar-item.is-active {
 }
 
 #blog {
-    .hero-body {
-        padding: 3rem 0.25rem 1rem 0.25rem;
+    .container {
+        width: 100%;
     }
 
-    .container {
-        margin: 1.5rem auto;
+    // Blog title
+    h1.blog-title {
+        font-size: 3em;
+        font-weight: bold;
+        color: $charcoal;
+    }
+
+    h1.title {
+        padding: 1em 0 0.5em;
+    }
+
+    .level-left {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .description {
+        font-style: italic;
+        font-size: 1.2em;
+    }
+
+    .content-container {
+        display: flex;
+
+        @media (max-width: 768px) {
+            flex-direction: column;
+
+            a {
+                font-size: 1em;
+            }
+
+            .contributions {
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+            }
+            
+            .contributors {
+                display: flex;
+                justify-content: center;
+            }
+        }
+
+        .column {
+            margin: 0 0.5rem;
+        }
+
+        p {
+            margin-bottom: 0.5rem;
+        }
+
+        .button {
+            margin: 0.5rem;
+        }
+    
+        .contributions {
+            img {
+                width: 100px;
+                margin: 0.5rem 0 0.5rem;
+            }
+    
+            figure {
+                text-align: start;
+                margin-left: 0;
+            }
+    
+            h2 {
+                font-size: 1.5em;
+                line-height: 1.5rem;
+                font-weight: 600;
+                text-align: start;
+                padding: 0;
+                margin: 0;
+            }
+        }
     }
 
     #blog-card {
@@ -330,8 +404,6 @@ a.navbar-item.is-active {
 }
 
 #search {
-    border-bottom: 0.15rem solid;
-
     input {
         border: none;
         outline: none;
@@ -340,7 +412,6 @@ a.navbar-item.is-active {
         &::placeholder {
             font-weight: 500;
             color: grey;
-            letter-spacing: 0.25rem;
         }
     }
 
@@ -678,7 +749,10 @@ a.navbar-item.is-active {
 }
 
 .is-fullwidth {
-    width: 80%;
+    width: 70%;
+    @media (max-width: 768px) {
+        width: 80%;
+    }
 }
 
 // For advice contributor block
@@ -767,4 +841,9 @@ a.navbar-item.is-active {
             }
         }
     }
+}
+
+#newsletter-banner {
+    // Match the iFrame styling
+    border: 2px solid #e5e7eb;
 }

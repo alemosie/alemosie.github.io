@@ -14,13 +14,53 @@ layout: compress
         <div class="hero-body">
             <div class="container">
                 {% include blogpage-heading.html %}
+                <hr class="has-background-black">
+                <div class="content-container">
+                    <div class="column">
+                        <p>
+                            We love a good WhatsApp parent group, but sometimes you need professional advice. 
+                            <b>If you don't have time or money to hire an expert – ask us!</b>
+                            We have a network of folks who are here to help.
+                            </p>
+                            <p>
+                                We publish new advice every other Monday in our newsletter, <a href="/subscribe">Just a Phase</a>.
+                            </p>
+                        
+                            <a href="{{site.url}}{{site.base-url}}/advice/submit" class="button is-rounded submit">Submit your question</a>
+                        
+                            <a href="{{site.url}}{{site.base-url}}/advice/volunteer" class="button is-rounded submit">Volunteer your expertise</a>
+                    </div>
+                    <div class="contributions column is-4">
+                        <h2>Past contributors</h2>
+                
+                        <div class="contributors">
+                        {% for contributor in site.data.advice-contributors %}
+                            <a href="{{contributor.link}}">
+                                <figure class="image">
+                                    <img class="is-rounded" src="{{contributor.image}}" alt="{{contributor.name}}">
+                                </figure>
+                            </a>
+                        {% endfor %}
+                        </div>
+                    </div>
+                </div>
+                <h1 class="title is-1 has-text-weight-bold">All advice</h1>
+                <p>
+                    First advice is out on <b>2 December</b>. 
+                    <a href="/subscribe">Subscribe</a> to our newsletter now to receive it!
+                </p>
+                <br>
+                <div id="results-container"></div>
+                <div>
+                    <iframe src="https://giphy.com/embed/xTiN0CNHgoRf1Ha7CM" 
+                     style="width:100%" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+                </div>
+                <!--Blog Cards Section-->
+                <!-- {% for post in site.posts %}
+                    {% include blog-card.html %}
+                {% endfor %} -->
             </div>
-        </div>
-        <div id="results-container"></div>
-        <!--Blog Cards Section-->
-        {% for post in site.posts %}
-            {% include blog-card.html %}
-        {% endfor %}
+            </div>
         </div>
     </section>
     <br>
