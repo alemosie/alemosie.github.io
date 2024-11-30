@@ -264,6 +264,9 @@ a.navbar-item.is-active {
 }
 #post-content {
     margin: 10px 10%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 
     .columns {
         margin-top: 2em;
@@ -301,6 +304,27 @@ a.navbar-item.is-active {
     .has-text-link {
         color: $goldenrod !important;
     }
+
+    @media (max-width: 768px) {
+        margin: 0;
+        padding: 0;
+
+        .columns {
+            margin: 0.5em;
+        }
+        .column {
+            padding: 0;
+        }
+
+        h1 {
+            font-size: 1.5em;
+        }
+
+        h2 {
+            padding: 0 0.5em;
+            font-size: 1.5em
+        }
+    }
 }
 
 #post-header {
@@ -322,6 +346,16 @@ a.navbar-item.is-active {
 .profile-card {
     .columns {
         display: flex;
+
+        @media (max-width: 768px) {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+
+            .image {
+                max-width: 100px;
+            }
+        }
     }
     .image-container {
         min-width: 100px;
@@ -692,7 +726,7 @@ a.navbar-item.is-active {
     }
 
     .container {
-        margin: 2.5rem auto 0;
+        margin: 2.5rem auto;
         word-break: break-word;
         max-width: -webkit-fill-available;
     }
