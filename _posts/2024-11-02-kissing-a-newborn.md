@@ -1,7 +1,8 @@
 ---
 title: Kissing a newborn? Aim for the feet.
 layout: post
-post-image: /assets/images/1280x720 Placeholder.png
+post-image: /assets/images/posts/luma-pimentel-1vnB2l7j3bY-unsplash.jpg
+post-image-attribution: Photo by <a class="link" href="https://unsplash.com/@lumapimentel?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash" target="_blank" rel="noopener noreferrer nofollow"><span>Luma Pimentel</span></a> on <a class="link" href="https://unsplash.com/photos/baby-covered-with-white-blanket-1vnB2l7j3bY?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash" target="_blank" rel="noopener noreferrer nofollow"><span>Unsplash</span></a>
 description: Protect your newborn (or any baby!) from sickness by asking them to kiss their feet. This ensures that stranger germs stay away from your baby's face, where they're most susceptible to catching something new.
 
 tags:

@@ -305,8 +305,8 @@ a.navbar-item.is-active {
         color: $goldenrod !important;
     }
 
-    @media (max-width: 768px) {
-        margin: 0;
+    @media (max-width: 900px) {
+        margin: 10px 3% 0;
         padding: 0;
 
         .columns {
@@ -330,7 +330,7 @@ a.navbar-item.is-active {
 #post-header {
     width: 100%;
     padding: 0;
-    @media (max-width: 1000px) {
+    @media (max-width: 1200px) {
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -338,7 +338,7 @@ a.navbar-item.is-active {
 }
 
 .post-image-container {
-    @media (max-width: 1000px) {
+    @media (max-width: 1200px) {
         display: none;
     }
 }
@@ -958,4 +958,8 @@ a.navbar-item.is-active {
 #newsletter-banner {
     // Match the iFrame styling
     border: 2px solid #e5e7eb;
+}
+
+.image-attribution {
+    color: gray;
 }

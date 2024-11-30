@@ -77,7 +77,7 @@ plugins:
   - jekyll-feed
 
 # Permalink
-permalink: "newsletter/:title"
+permalink: "advice/:title"
 
 # Compress
 compress_html:
