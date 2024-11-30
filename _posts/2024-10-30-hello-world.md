@@ -4,9 +4,9 @@ layout: post
 post-image: /assets/images/1280x720 Placeholder.png
 description: The first newsletter entry, which is a test!
 tags:
-- sample
-- post
-- test
+- newborn
+- health
+- family_and_friends
 ---
 
 # Hello, world! 
