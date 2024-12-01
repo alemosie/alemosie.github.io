@@ -3,7 +3,7 @@ title: Keeping a newborn healthy over the holidays
 layout: post
 post-image: /assets/images/posts/luma-pimentel-1vnB2l7j3bY-unsplash.jpg
 post-image-attribution: Photo by <a class="link" href="https://unsplash.com/@lumapimentel?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash" target="_blank" rel="noopener noreferrer nofollow"><span>Luma Pimentel</span></a> on <a class="link" href="https://unsplash.com/photos/baby-covered-with-white-blanket-1vnB2l7j3bY?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash" target="_blank" rel="noopener noreferrer nofollow"><span>Unsplash</span></a>
-description: While adults have fully developed immune systems, newborns don’t have that kind of protection yet. So until they’re older (and vaccinated!), Heather shares some tips for keeping a newborn healthy over the holidays.
+description: While adults have fully developed immune systems, newborns don’t have that kind of protection yet. So until they’re older (and vaccinated!), our expert Heather shares some tips for keeping a newborn healthy over the holidays.
 
 tags:
 - newborn
