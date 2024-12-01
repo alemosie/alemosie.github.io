@@ -24,7 +24,7 @@ author-website: https://berrycareandcoaching.com
 
 ## I’ve heard that you shouldn’t let people kiss your newborn baby. Why is that? What can I tell my family members over the holidays who are desperate to kiss my baby?
 
-# Heather's answer
+# Our answer
 
 How exciting is it to share your new baby with all of the people in your life over the holidays! Of course, everyone is eager to attend your little one’s big debut. But for every well-intentioned friend or family member showering you with love and gifts, they may also be bringing along an unexpected present: **new germs** 😱
 
