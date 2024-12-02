@@ -565,6 +565,7 @@ a.navbar-item.is-active {
         .column {
             display: grid;
             justify-content: center;
+            margin: 0 0.5rem;
 
             li {
                 list-style: circle;
@@ -591,19 +592,12 @@ a.navbar-item.is-active {
 
             h3 {
                 font-weight: 700;
-            }
-
-            p {
-                display: flex;
-                line-height: 2rem;
-                align-items: center;
+                margin-bottom: 0.25rem;
             }
 
             .date {
                 color: gray;
                 font-size: 0.75rem;
-                line-height: 2rem;
-                padding-left: 4px;
             }
 
             .social-contact {
@@ -622,6 +616,7 @@ a.navbar-item.is-active {
         @media (max-width: 768px) {
             .column {
                 justify-content: start;
+                flex-direction: column-reverse;
             }
         }
     }
