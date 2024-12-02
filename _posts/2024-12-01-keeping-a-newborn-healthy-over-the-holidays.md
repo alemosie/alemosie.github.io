@@ -20,19 +20,19 @@ author-instagram: https://www.instagram.com/the4thtrimestersupport/
 author-website: https://berrycareandcoaching.com
 ---
 
-# The community asked...
+# The community asked:
 
 ## I’ve heard that you shouldn’t let people kiss your newborn baby. Why is that? What can I tell my family members over the holidays who are desperate to kiss my baby?
 
-# Our answer
+# Our answer:
 
-How exciting is it to share your new baby with all of the people in your life over the holidays! Of course, everyone is eager to attend your little one’s big debut. But for every well-intentioned friend or family member showering you with love and gifts, they may also be bringing along an unexpected present: **new germs** 😱
+How exciting is it to share your new baby with all of the people in your life over the holidays! Of course, everyone is eager to attend your little one’s big debut. But for every well-intentioned friend or family member showering you with love and gifts, they may also be bringing along an unexpected present: **new germs** 😱 We asked postpartum nurse Heather Berry, from Berry Care and Coaching, to weigh in and help us navigate this tricky health (and social!) situation.
 
 While we as **adults have fully developed immune systems** ready to tackle all the old and new germs that come our way, newborns don’t have that kind of protection yet. Your baby has some antibodies from you — especially if you’re breastfeeding — but **their immune system is still a work in progress**. If they do end up catching something, they can have a much harder time fighting it off and getting healthy again. And you don’t want a sick baby over the holidays!
 
 > "When someone is *desperate* to smooch those precious little cheeks, you can gently explain that right now, your baby’s **‘approved kissing zone’ is their adorable little feet**,” says Heather.
 
-When someone new kisses your baby’s cheek, there’s a **higher chance of them transmitting those new germs to your baby**. Instead, deflect your family and friends to your baby’s feet. “When someone is *desperate* to smooch those precious little cheeks, you can gently explain that right now, your baby’s **‘approved kissing zone’ is their adorable little feet,”** says postpartum nurse Heather Berry from Berry Care and Coaching. That way, everyone’s germs stay far away from your newborn’s face and hands.
+When someone new kisses your baby’s cheek, there’s a **higher chance of them transmitting those new germs to your baby**. Instead, deflect your family and friends to your baby’s feet. “When someone is *desperate* to smooch those precious little cheeks, you can gently explain that right now, your baby’s **‘approved kissing zone’ is their adorable little feet,”** says Heather. That way, everyone’s germs stay far away from your newborn’s face and hands.
 
 Heather also has the following tip for eager visitors: “Until your baby’s immune system has had a chance to get stronger — and until they’re vaccinated — it’s a good idea for people to **wash their hands before holding your baby**.” It’s better to keep germs at arm’s length… or foot’s length, in this case.
 
