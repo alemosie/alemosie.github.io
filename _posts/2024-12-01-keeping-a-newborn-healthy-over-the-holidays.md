@@ -10,6 +10,7 @@ tags:
 - health
 - family
 - friends
+- socializing
 
 author-name: Heather Berry
 author-title: Postpartum nurse at Berry Care and Coaching
