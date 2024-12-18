@@ -1,7 +1,7 @@
 ---
 layout: event
 title: €2 Sale
-date: 2025-01-19
+date: 2025-02-16
 page-image: /assets/images/2-euro-sale.jpg
 description: Come buy, sell, and donate baby clothes, toys, and books with other neighborhood parents. No Vinted hassle required! All items are less than €10, with most items priced €2 and under.
 
@@ -84,14 +84,8 @@ Yes! Parents — including buyers and sellers — are showing up later after nap
 
 The spirit of the sale is to sell everything for €2 or less, to swap good quality items with community parents without breaking the bank.
 
-You can sell a maximum of 5 items at a time over €2, and none priced over €10. 
-
-### Who is organizing this? How are you paying for all of this?
-
-This is a labor of love from the Amsterdam Mama Walks group admins, Geraldine and Alex (from the Amsterdam Parent Project) 💗 The Amsterdam Parent Project is covering the cost of the space and other materials.
-
-Our goal is to reach the many parents in West that don’t have places in the neighborhood to gather together and contribute to the circular economy of baby items. 
+You can sell a maximum of 5 items at a time over €2, and none priced over €10.  
 
 ### Can I help on the day? In the future?
 
-If you want to help us set up or tear down, share the event with other groups, or organize future events — get in touch with Alex or Geraldine on WhatsApp! You can find our contact info in the Walks group.
+If you want to help us set up or tear down, share the event with other groups, or organize future events — get in touch by emailing [amsterdamparentproject@gmail.com](mailto:amsterdamparentproject@gmail.com).
