@@ -2,7 +2,7 @@
 layout: event
 title: €2 Sale
 date: 2025-02-16
-page-image: /assets/images/2-euro-sale.jpg
+page-image: /assets/images/events/2-euro-sale.jpg
 description: Come buy, sell, and donate baby clothes, toys, and books with other neighborhood parents. No Vinted hassle required! All items are less than €10, with most items priced €2 and under.
 
 location-name: Buurtsalon Jeltje in Oud West

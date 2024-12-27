@@ -791,6 +791,9 @@ a.navbar-item.is-active {
     p {
         margin-bottom: 0.5rem;
     }
+    b {
+        color: $goldenrod;
+    }
     h3 {
         margin: 0.5rem 0;
         font-weight: 600;
@@ -799,7 +802,7 @@ a.navbar-item.is-active {
     }
     a {
         &:hover {
-            color: $sand;
+            color: $goldenrod;
         }
     }
     span {
