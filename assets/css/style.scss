@@ -129,6 +129,10 @@ a.navbar-item.is-active {
         padding-top: 0;
     }
 
+    main-title + subtitle {
+        letter-spacing: 0.1em;
+    }
+
     .link-tree {
         display: flex;
         justify-content: center;
@@ -139,7 +143,14 @@ a.navbar-item.is-active {
         i {
             color: $sand;
             font-size: 0.6em;
-            margin-left: 1em;
+            margin-left: 0.5em;
+        }
+
+        .subtitle {
+            color: $sand;
+            font-size: 0.6em;
+            letter-spacing: normal;
+            margin-left: 0.5em;
         }
 
         .button {
@@ -162,6 +173,12 @@ a.navbar-item.is-active {
                 font-size: 1.2em;
                 text-wrap: auto;
                 height: auto;
+                display: flex;
+                flex-direction: column;
+            }
+
+            i {
+                margin: 0.2em 0 0;
             }
         }
     }

@@ -6,7 +6,7 @@ ticket-url: https://www.eventbrite.com/e/1124433543999
 
 date: 2025-02-16
 page-image: /assets/images/events/burnout-brunch-jan-2025.png
-description: An expert panel and small group discussion on managing stress and avoiding burnout while juggling the demands of work as a parent. Our <b>expert speakers — two specialized career coaches and a psychotherapist</b>, all mamas themselves — will share their experiences and strategies for finding balance while reducing stress as working parents. Then we'll break out into <b>small support groups</b>, where you'll connect with other working parents and gain valuable insights to help you thrive both at work and at home. <b>Tasty brunch</b> included!
+description: Learn from professionals and fellow parents how to manage stress and burnout while juggling the demands of work as a parent. Our <b>expert panel — two specialized career coaches and a psychotherapist</b>, all mamas themselves — will share strategies for navigating stress and burnout. Then we'll break out into <b>small support groups</b>, where you'll connect with other working parents going through the same thing. <b>Tasty brunch</b> included!
 
 location-name: Hannah's Restaurant in De Baarsjes, Amsterdam
 location-address: Admiraal de Ruijterweg 107, 1056 EV Amsterdam
