@@ -16,11 +16,19 @@
         padding: 0.5em 0;
     }
     .hero.is-fullheight .hero-body {
-        margin-top: 6em;
+        margin-top: 7em;
     }
     .navbar-brand {
         display: flex;
         justify-content: center;
+
+        .navbar-item {
+            flex-direction: column;
+
+            h1 {
+                padding-top: 0.1em;
+            }
+        }
     }
     .navbar-burger {
         display: none;
@@ -28,25 +36,24 @@
     .navbar-menu {
         display: block;
         box-shadow: none;
-        background-color: $sand;
-        // color: $white;
 
         .navbar-end {
             display: flex;
             justify-content: center;
             box-shadow: none;
             align-items: center;
-            background-color: $soft-green;
+            background-color: rgba(215,195,172,.5);
 
             a.navbar-item {
-                color: $white;
+                color: $charcoal;
                 &:hover, &:active, &:focus {
                     background: none;
-                    color: $goldenrod;
+                    color: $soft-green;
                 }
             }
             a.navbar-item.is-active {
-                color: $goldenrod;
+                color: $soft-green;
+                font-weight: normal;
                 background: none;
             }
         }
@@ -84,7 +91,7 @@ a.navbar-item.is-active {
 }
 
 .navbar-icon { // Instagram logo
-    color: $charcoal;
+    color: $goldenrod;
     font-size: 1.5rem;
 }
 
