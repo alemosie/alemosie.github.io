@@ -116,21 +116,40 @@ a.navbar-item.is-active {
         justify-content: center;
         flex-direction: column;
         align-items: center;
-        margin-top: -5%; // TODO: Offset for center; lsook into portrait orientations
+        margin-top: -5%; // TODO: Offset for center; look into portrait orientations
         width: 100%;
+
+        @media (max-width: 500px) {
+            justify-content: flex-start;
+            margin-top: 5%;
+        }
     }
 
     .main-image {
-        width: 20%;
-        height: 20%;
+        margin-top:5%;
+        width: 15%;
+        height: 15%;
+
+        @media (max-width: 500px) {
+            display: none;
+        }
     }
 
     h1.main-title {
         padding-top: 0;
+
+        @media (max-width: 500px) {
+            display: none;
+        }
     }
 
     h3.subtitle {
-        letter-spacing: 0.1em;
+        letter-spacing: normal;
+        padding-bottom: 1em;
+
+        @media (max-width: 500px) {
+            display: none;
+        }
     }
 
     .link-tree {
@@ -139,6 +158,13 @@ a.navbar-item.is-active {
         flex-direction: column;
         width: 100%;
         max-width: 500px;
+
+        // Section headers
+        h4 {
+            color: $charcoal;
+            font-weight: 600;
+            padding: 1.5em 0 0.5em;
+        }
 
         i {
             color: $sand;

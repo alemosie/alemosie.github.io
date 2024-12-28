@@ -1,4 +1,4 @@
-<section class="hero is-fullheight has-text-centered" id="hero">
+<section class="hero is-fullheight" id="hero">
   <div class="hero-body">
     <div class="container main-page">
       <img class="main-image" src="/{{site.logo-url}}" />
@@ -8,20 +8,21 @@
       <h3 class="subtitle has-text-weight-medium is-marginless">
         {{site.description}}
       </h3>
-      <hr>
       <div class="link-tree">
-        {% for event in site.data.events offset: 0 limit:1 %}
+        <h4>Events</h4>
+        {% for event in site.data.events offset: 0 limit:3 %}
           <a href="{{event.link}}"
             class="button is-rounded">
             
-            Next event - {{event.name}} <span class="subtitle">({{event.short-date}})</span></a>
+            {{event.name}} <span class="subtitle">({{event.short-date}})</span></a>
         {% endfor %}
+
+        <!-- Stay up to date -->
+        <h4>Follow us</h4>
         <a href="{{site.url}}{{site.base-url}}/subscribe"
-        class="button is-rounded">Subscribe to our newsletter</a>
+          class="button is-rounded">Subscribe to our newsletter</a>
         <a href="{{site.instagram-link}}"
-        class="button is-rounded">Follow us on Instagram <i class="fas fa-external-link-alt"></i></a>
-        <a href="{{site.roadmap-link}}"
-          class="button is-rounded">Public roadmap <i class="fas fa-external-link-alt"></i></a>
+          class="button is-rounded">Instagram</a>
       </div>
     </div>
   </div>
