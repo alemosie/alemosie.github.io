@@ -10,9 +10,15 @@
             <div class="team-title">
                 <h3>{{page.author-title}}</h3>
                 <div class="team-socials">
-                    <a href="{{page.author-instagram}}" target="_blank"><i class="fab fa-instagram"></i></a>
-                    <a href="{{page.author-linkedin}}" target="_blank"><i class="fab fa-linkedin"></i></a>
-                    <a href="{{page.author-website}}" target="_blank"><i class="fas fa-globe"></i></a>
+                    {% if page.author-instagram %} 
+                        <a href="{{page.author-instagram}}" target="_blank"><i class="fab fa-instagram"></i></a>
+                    {% endif %}
+                    {% if page.author-linkedin %} 
+                        <a href="{{page.author-linkedin}}" target="_blank"><i class="fab fa-linkedin"></i></a>
+                    {% endif %}
+                    {% if page.author-website %} 
+                        <a href="{{page.author-website}}" target="_blank"><i class="fas fa-globe"></i></a>
+                    {% endif %}
                 </div>
             </div>
         </div>
