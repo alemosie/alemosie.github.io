@@ -180,7 +180,6 @@ a.navbar-item.is-active {
         }
 
         .subtitle {
-            color: $sand;
             font-size: 0.6em;
             letter-spacing: normal;
             margin-left: 0.5em;
@@ -194,7 +193,11 @@ a.navbar-item.is-active {
             &:hover {
                 background-color: $soft-green;
                 border: 0px;
-                color: $white
+                color: $white;
+
+                .subtitle {
+                    color: $white;
+                }
             }
             &:active, &:focus {
                 border: 2px solid $soft-green;

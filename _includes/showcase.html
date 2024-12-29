@@ -10,7 +10,7 @@
       </h3>
       <div class="link-tree">
         <h4>Events</h4>
-        {% for event in site.data.events offset: 0 limit:3 %}
+        {% for event in site.data.events offset: 0 limit:4 %}
           <a href="{% if event.link  %}{{event.link}}{% else %}{{site.url}}{{site.baseurl}}/calendar{% endif %}"
             class="button is-rounded">
             
@@ -23,6 +23,8 @@
           class="button is-rounded">Subscribe to our newsletter</a>
         <a href="{{site.instagram-link}}"
           class="button is-rounded">Instagram</a>
+        <a href="{{site.roadmap-link}}"
+          class="button is-rounded">Public roadmap</a>
       </div>
     </div>
   </div>
