@@ -26,7 +26,7 @@ Your job is easy! Show up on the day, there is no ticket to reserve nor entry fe
     <div class="column">
         <h3>Secure a seller spot</h3>
         <a href="{{site.url}}{{site.baseurl}}{{page.url}}"
-            class="button">Reserve your seller spot</a>
+            class="button">Reserve your seller spot (Open 16 Jan)</a>
         <p>We recommend all of our sellers to reserve a spot ahead of time! When you reserve a spot, you may come 30 minutes early to set up.</p>
         <ul>
             <li>For <b>toddlers</b>, arrive between 10:00 and 13:00</li>
