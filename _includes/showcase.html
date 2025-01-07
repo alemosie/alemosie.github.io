@@ -10,7 +10,7 @@
       </h3>
       <div class="link-tree">
         <h4>Events</h4>
-        {% for event in site.data.events offset: 0 limit:4 %}
+        {% for event in site.data.events offset: 1 limit:3 %}
           <a href="{% if event.link  %}{{event.link}}{% else %}{{site.url}}{{site.baseurl}}/calendar{% endif %}"
             class="button is-rounded">
             
