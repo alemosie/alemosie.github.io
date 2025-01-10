@@ -14,6 +14,7 @@ tags:
 - sale
 ---
 
+<script type="text/javascript" async src="https://embeds.beehiiv.com/attribution.js"></script>
 <iframe src="https://embeds.beehiiv.com/138f89ab-1c7e-4db4-a465-8a82ad0349dc" data-test-id="beehiiv-embed" width="100%" height="320" frameborder="0" scrolling="no" style="border-radius: 4px; border: 2px solid #e5e7eb; margin: 0; background-color: transparent;"></iframe>
 
 ## For buyers: How does it work?
