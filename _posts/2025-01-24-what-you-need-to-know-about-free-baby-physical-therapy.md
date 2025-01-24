@@ -32,6 +32,8 @@ Did you know that children’s physical therapy is completely free of charge for
 
 Pediatric physical therapy (*kinderfysiotherapie* in Dutch, or *kinderfysio* for short) focuses on helping infants, toddlers, and children **improve their gross motor skills, mobility, strength, balance, and coordination**. It is designed to assist children who face developmental delays, injuries, or conditions that affect movement and physical functioning.
 
+> “Physical therapy for children goes far beyond just improving gross motor skills. It also plays a crucial role in their emotional, mental, and social development, creating **a strong foundation for overall well-being**," says pediatric physical therapist Maggie Onofri.
+
 Even if your baby is developing normally, you could still benefit from connecting with a physical therapist. Maggie says, “Physical therapy for children goes far beyond just improving gross motor skills. It also plays a crucial role in their emotional, mental, and social development, creating a strong foundation for overall well-being.” 
 
 A kinderfysio helps your baby build a healthy sense of self as they learn more about their physical capabilities and surroundings. “Achieving physical milestones through therapy, such as sitting, crawling, or walking, gives children a sense of accomplishment. This **boosts self-esteem and encourages them to explore their environment**,” says Maggie.
