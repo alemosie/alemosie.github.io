@@ -3,7 +3,7 @@ layout: event
 title: €2 Sale
 date: 2025-02-16
 page-image: /assets/images/events/2-euro-sale.jpg
-description: Come buy, sell, and donate baby clothes, toys, and books with other neighborhood parents. No Vinted hassle required! All items are less than €10, with most items priced €2 and under.
+description: Come buy, sell, and donate baby clothes, toys, and books with other neighborhood parents. No WhatsApp or Vinted hassle required! All items are less than €10, with most items priced €2 and under.
 
 location-name: Buurtsalon Jeltje in Oud West
 location-address: Eerste Helmersstraat 106N, 1054 EG Amsterdam
@@ -21,8 +21,7 @@ tags:
 
 Your job is easy! Show up on the day, there is no ticket to reserve nor entry fee to pay.
 
-- For **toddler** items, come between **10:30 and 13:30**.
-- For **baby** items, come between **14:00 and 17:00**.
+- For **baby and toddler** items, come between **14:00 and 17:00**.
 
 ## For sellers: How does it work?
 <div class="event-content-container">
@@ -32,8 +31,7 @@ Your job is easy! Show up on the day, there is no ticket to reserve nor entry fe
             class="button">Reserve your seller spot (Open 16 Jan)</a>
         <p>We recommend all of our sellers to reserve a spot ahead of time! When you reserve a spot, you may come 30 minutes early to set up.</p>
         <ul>
-            <li>For <b>toddlers</b>, arrive between 10:00 and 13:00</li>
-            <li>For <b>babies</b>, arrive between 13:30 and 16:30</li>
+            <li>Arrive between 13:30 and 16:30</li>
         </ul>
         <p>You can also choose to arrive on the day. We can't guarantee a spot, but we will try to accommodate you. Please note that if a ticketed seller does show up late and you're in their spot, we will kindly ask you to leave to make space for them.</p>
     </div>
@@ -88,6 +86,11 @@ Yes! Parents — including buyers and sellers — are showing up later after nap
 The spirit of the sale is to sell everything for €2 or less, to swap good quality items with community parents without breaking the bank.
 
 You can sell a maximum of 5 items at a time over €2, and none priced over €10.  
+
+### I thought there was a split between toddler and baby sale?
+
+When we first announced this event, we were hosting separate toddler and baby sales. Due to community feedback and to respect our own energy as volunteer organizers, we consolidated the two sales in the afternoon only. This way, sellers with both baby and toddler clothes don't have to pay for two seller spots!
+
 
 ### Can I help on the day? In the future?
 
