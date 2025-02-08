@@ -16,9 +16,14 @@ tags:
 
 ## For buyers: How does it work?
 
-Your job is easy! Show up on the day, there is no ticket to reserve nor entry fee to pay.
+Your job is easy! Show up on the day or reserve ahead of time. There is no entry fee to pay.
 
 - For **baby and toddler** items, come between **14:00 and 17:00**.
+
+If you want to jump to the front of the line, you can also reserve your spot: 
+
+<a href="https://www.eventbrite.com/e/2-sale-winter-edition-tickets-1147869631969?aff=oddtdtcreator"
+            class="button">Get your free buyer ticket</a>
 
 ## For sellers: How does it work?
 <div class="event-content-container">
