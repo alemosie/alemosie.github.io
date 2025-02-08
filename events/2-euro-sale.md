@@ -68,6 +68,7 @@ Full list of accepted items: [Babystartpakket Overview](https://stichtingbabyspu
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4872.90893020463!2d4.866684212623281!3d52.362178947784976!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c609e2218f071f%3A0x1917e78f631cd199!2sBuurtsalon%20Jeltje!5e0!3m2!1sen!2snl!4v1730466388489!5m2!1sen!2snl" style="border:0;width:100%;height:300px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
+
 ## FAQ
 
 ### Do I need to pay an entrance fee if I’m just buying things?
@@ -92,3 +93,6 @@ When we first announced this event, we were hosting separate toddler and baby sa
 ### Can I help on the day? In the future?
 
 If you want to help us set up or tear down, share the event with other groups, or organize future events — get in touch by emailing [amsterdamparentproject@gmail.com](mailto:amsterdamparentproject@gmail.com).
+
+<script type="text/javascript" async src="https://embeds.beehiiv.com/attribution.js"></script>
+<iframe src="https://embeds.beehiiv.com/138f89ab-1c7e-4db4-a465-8a82ad0349dc" data-test-id="beehiiv-embed" width="100%" height="320" frameborder="0" scrolling="no" style="border-radius: 4px; border: 2px solid #e5e7eb; margin: 0; background-color: transparent;"></iframe>
