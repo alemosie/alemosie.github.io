@@ -14,9 +14,6 @@ tags:
 - sale
 ---
 
-<script type="text/javascript" async src="https://embeds.beehiiv.com/attribution.js"></script>
-<iframe src="https://embeds.beehiiv.com/138f89ab-1c7e-4db4-a465-8a82ad0349dc" data-test-id="beehiiv-embed" width="100%" height="320" frameborder="0" scrolling="no" style="border-radius: 4px; border: 2px solid #e5e7eb; margin: 0; background-color: transparent;"></iframe>
-
 ## For buyers: How does it work?
 
 Your job is easy! Show up on the day, there is no ticket to reserve nor entry fee to pay.
@@ -28,7 +25,7 @@ Your job is easy! Show up on the day, there is no ticket to reserve nor entry fe
     <div class="column">
         <h3>Secure a seller spot</h3>
         <a href="https://www.eventbrite.com/e/2-sale-winter-edition-tickets-1147869631969?aff=oddtdtcreator"
-            class="button">Reserve your seller spot (Open 16 Jan)</a>
+            class="button">Reserve your seller spot</a>
         <p>We recommend all of our sellers to reserve a spot ahead of time! When you reserve a spot, you may come 30 minutes early to set up.</p>
         <ul>
             <li>Arrive between 13:30 and 16:30</li>
@@ -37,8 +34,8 @@ Your job is easy! Show up on the day, there is no ticket to reserve nor entry fe
     </div>
     <div class="column">
         <h3>Before the event: Prepare to sell</h3>
-        <a href="{{site.url}}{{site.baseurl}}{{page.url}}"
-            class="button">Download our seller guidelines (Coming soon)</a>
+        <a href="{{site.url}}{{site.baseurl}}/guides/2-Euro-Sale-Seller-Guidelines.png"
+            class="button">Download our seller guidelines</a>
 
         <p><b>All items must be in good condition!</b> The target age group is 0-3. All clothes should be under size 104.</p>
         <p>Price your items:</p>
