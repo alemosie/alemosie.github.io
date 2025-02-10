@@ -24,13 +24,13 @@ author-website: https://joannelozmanconsulting.com/
 
 Room sharing can be a wonderful way of bonding with your babe – not to mention, it’s [recommended](https://publications.aap.org/pediatrics/article/150/1/e2022057990/188304/Sleep-Related-Infant-Deaths-Updated-2022) by the AAP as a way to reduce the risk of SIDS. But **once the crucial six-month mark has passed, you might find yourself longing to reclaim your bedroom**. We asked sleep consultant Joanne Lozman to weigh in on how you can make the move while minimizing the impact on your family.
 
-***Here’s what she had to say:***
+### *Here’s what she had to say:*
 
 As a children’s sleep coach, I am asked this question a lot. The decision is personal, and there is no “one-size-fits-all” answer, but understanding the factors involved can help you make the best choice for both you and your baby.
 
 > "There is **no “one-size-fits-all” answer**, but understanding the factors involved can help you make the best choice for both you and your baby," says sleep consultant Joanne Lozman.
 
-### Signs Your Baby Might Be Ready for Their Own Room
+### Signs your baby might be ready for their own room
 
 There is no fixed time that you should be sharing a bedroom with your baby. I would advise doing what works for your family. Here are a few signs that it might be time to transition your baby to their own room:
 
@@ -40,7 +40,9 @@ There is no fixed time that you should be sharing a bedroom with your baby. I wo
 4. **Baby starts standing in their crib**: I find that between 7-9 months room sharing can stop working as well. That is often because baby is becoming a lot more mobile. They can stand in their crib and see you! This can prompt some long wakings in the night.
 5. **Baby is waking earlier in the morning**: As baby gets older they become more aware of noises. You may be a quiet sleeper but if you’re rustling the covers this could be enough to wake baby up from a light sleep. Moving them to their own room where it is quieter can help.
 
-### What to Expect During the Transition
+> "If your baby shows signs of distress or isn’t adjusting well, don’t hesitate to bring them back to your room for a little while longer. **There’s no harm in waiting until both you and your baby are ready.**" says sleep consultant Joanne Lozman.
+
+### What to expect during the transition
 
 The shift from room-sharing to your baby sleeping in their own room can come with some challenges, depending on when you choose to make this move. It’s important to approach the transition with patience and flexibility. Here are a few tips to make the process smoother:
 
@@ -49,6 +51,11 @@ The shift from room-sharing to your baby sleeping in their own room can come wit
 - **Keep the room safe and comfortable**: Ensure the crib meets all safety standards, the room is not too hot or cold, and there are no choking hazards. Babies under 12 months should have an empty crib (no bumpers, blankets, pillows or toys). Keep the room dark. If you use a white noise machine, make sure it is not next to baby – try putting it next to the door or wall where the most noise comes from.
 - **Trust your instincts**: Every baby is different. If your baby shows signs of distress or isn’t adjusting well, don’t hesitate to bring them back to your room for a little while longer. There’s no harm in waiting until both you and your baby are ready.
 
-### Final Thoughts
+### Final thoughts
 
 Deciding when your baby can sleep in their own room is a personal decision that depends on your baby’s development and your family’s needs. The most important thing is ensuring that both your baby and you are comfortable with the transition. Whether it’s at six months or a bit later, trust your instincts, make adjustments as necessary, and know that you’ll find the right time for your family.
+
+### Reach out to Joanne 
+
+- Via her [website](https://joannelozmanconsulting.com/) for information on upcoming classes and private consultations
+- Follow her on [Instagram](https://www.instagram.com/joannelozmansleep) for more insights into baby and toddler sleep
