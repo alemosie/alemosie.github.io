@@ -40,9 +40,10 @@ There is no fixed time that you should be sharing a bedroom with your baby. I wo
 4. **Baby starts standing in their crib**: I find that between 7-9 months room sharing can stop working as well. That is often because baby is becoming a lot more mobile. They can stand in their crib and see you! This can prompt some long wakings in the night.
 5. **Baby is waking earlier in the morning**: As baby gets older they become more aware of noises. You may be a quiet sleeper but if you’re rustling the covers this could be enough to wake baby up from a light sleep. Moving them to their own room where it is quieter can help.
 
+### What to expect during the transition
+
 > "If your baby shows signs of distress or isn’t adjusting well, don’t hesitate to bring them back to your room for a little while longer. **There’s no harm in waiting until both you and your baby are ready.**" says sleep consultant Joanne Lozman.
 
-### What to expect during the transition
 
 The shift from room-sharing to your baby sleeping in their own room can come with some challenges, depending on when you choose to make this move. It’s important to approach the transition with patience and flexibility. Here are a few tips to make the process smoother:
 
