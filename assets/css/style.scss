@@ -1027,3 +1027,16 @@ a.navbar-item.is-active {
 .image-attribution {
     color: gray;
 }
+
+.subscribe-content-container {
+    h1 {
+        color: $sand;
+        font-size: 1.5em;
+        font-weight: normal;
+    }
+
+    ul {
+        text-align: start;
+    }
+
+}
